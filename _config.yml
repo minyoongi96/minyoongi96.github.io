@@ -104,7 +104,11 @@ social:
 
 # Analytics
 analytics:
+<<<<<<< HEAD
   provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+=======
+  provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
+>>>>>>> 6e83c1ac (_config.yml: Drop explicit default `false`s)
   google:
     tracking_id          : "G-D9JJMVGYQH"
     anonymize_ip         : false

@@ -7,8 +7,6 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-<<<<<<< HEAD
-=======
 
 @import url('https://fonts.googleapis.com/css?family=Inconsolata');
 
@@ -16,4 +14,3 @@ search: false
     color: #696969;   // 메인 포스트 a태그 제목 색
     text-decoration: none;
 }
->>>>>>> cac0bdfd (posting)

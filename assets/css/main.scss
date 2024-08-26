@@ -7,3 +7,13 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+<<<<<<< HEAD
+=======
+
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+
+.archive a {
+    color: inherit;
+    text-decoration: none;
+}
+>>>>>>> cac0bdfd (posting)
